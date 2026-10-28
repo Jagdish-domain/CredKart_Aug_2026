@@ -1,0 +1,11 @@
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:85 Testcase test_Credkart_login_excel_005 is started
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:93 Opening Browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:102 Entering email: CredenceTest_5005@credence.in
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:107 Entering password: Password@123
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:111 Clicking on login button
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:114 Checking login status
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:116 login pass
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:117 Click on menu button
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:119 Click on logout button
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:121 Taking screenshot for login pass
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:130 Writing data into excel file

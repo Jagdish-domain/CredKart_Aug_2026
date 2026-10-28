@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_CredKart_User_Profile_002.py:85 Testcase test_Credkart_login_excel_005 is started

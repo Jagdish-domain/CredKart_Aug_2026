@@ -1,0 +1,1344 @@
+2026-10-27 09:47:03,086 - INFO -test_Credkart_URL_001 -25 -Testcase test_Credkart_URL_001 is started
+2026-10-27 09:47:21,257 - INFO -test_Credkart_URL_001 -27 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 09:47:21,258 - INFO -test_Credkart_URL_001 -28 -Checking page title
+2026-10-27 09:47:21,284 - INFO -test_Credkart_URL_001 -30 -Page title is correct and landed on correct url -->CredKart
+2026-10-27 09:47:21,284 - INFO -test_Credkart_URL_001 -31 -Taking screenshot
+2026-10-27 09:47:21,575 - INFO -test_Credkart_URL_001 -33 -Testcase test_Credkart_URL_001 is pass
+2026-10-27 09:47:21,620 - INFO -test_Credkart_URL_001 -40 -Testcase test_Credkart_URL_001 is completed
+2026-10-27 09:47:21,631 - INFO -test_Credkart_login_002 -43 -Testcase test_Credkart_login_002 is started
+2026-10-27 09:47:22,632 - INFO -test_Credkart_login_002 -45 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 09:47:22,633 - INFO -test_Credkart_login_002 -52 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 09:47:23,064 - INFO -test_Credkart_login_002 -59 -Entering password: Password@123
+2026-10-27 09:47:23,401 - INFO -test_Credkart_login_002 -65 -Clicking on login button
+2026-10-27 09:47:27,672 - INFO -test_Credkart_login_002 -85 -Checking login status
+2026-10-27 09:47:27,750 - INFO -test_Credkart_login_002 -87 -login pass
+2026-10-27 09:47:27,750 - INFO -test_Credkart_login_002 -88 -Click on menu button
+2026-10-27 09:47:27,848 - INFO -test_Credkart_login_002 -90 -Click on logout button
+2026-10-27 09:47:29,519 - INFO -test_Credkart_login_002 -92 -Taking screenshot for login pass
+2026-10-27 09:47:29,882 - INFO -test_Credkart_login_002 -94 -Testcase test_Credkart_login_002 is passed
+2026-10-27 09:47:29,882 - INFO -test_Credkart_login_002 -101 -Testcase test_Credkart_login_002 is completed
+2026-10-27 09:47:29,888 - INFO -test_Credkart_Registration_003 -104 -Testcase test_Credkart_Registration_003 is started
+2026-10-27 09:47:30,588 - INFO -test_Credkart_Registration_003 -106 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-27 09:47:30,617 - INFO -test_Credkart_Registration_003 -118 -Entering name: Rachel Morales
+2026-10-27 09:47:30,765 - INFO -test_Credkart_Registration_003 -124 -Entering email: natalie43@example.org
+2026-10-27 09:47:30,885 - INFO -test_Credkart_Registration_003 -129 -Entering password
+2026-10-27 09:47:31,088 - INFO -test_Credkart_Registration_003 -134 -Entering confirm password
+2026-10-27 09:47:31,216 - INFO -test_Credkart_Registration_003 -139 -Click on register button
+2026-10-27 09:47:34,519 - INFO -test_Credkart_Registration_003 -156 -Checking registration status
+2026-10-27 09:47:34,798 - INFO -test_Credkart_Registration_003 -158 -registration pass
+2026-10-27 09:47:34,798 - INFO -test_Credkart_Registration_003 -159 -Click on menu button
+2026-10-27 09:47:34,889 - INFO -test_Credkart_Registration_003 -161 -Click on logout button
+2026-10-27 09:47:36,685 - INFO -test_Credkart_Registration_003 -163 -Taking screenshot for registration pass
+2026-10-27 09:47:36,864 - INFO -test_Credkart_Registration_003 -165 -Testcase test_Credkart_Registration_003 is passed
+2026-10-27 09:47:36,864 - INFO -test_Credkart_Registration_003 -172 -Testcase test_Credkart_Registration_003 is completed
+2026-10-27 09:48:27,634 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 09:48:27,695 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 09:48:27,828 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 09:48:48,542 - INFO -test_Credkart_Registration_003 -104 -Testcase test_Credkart_Registration_003 is started
+2026-10-27 09:48:49,145 - INFO -test_Credkart_login_002 -43 -Testcase test_Credkart_login_002 is started
+2026-10-27 09:48:53,606 - INFO -test_Credkart_URL_001 -25 -Testcase test_Credkart_URL_001 is started
+2026-10-27 09:48:57,637 - INFO -test_Credkart_Registration_003 -106 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-27 09:48:57,652 - INFO -test_Credkart_Registration_003 -118 -Entering name: Charles Ali
+2026-10-27 09:48:58,166 - INFO -test_Credkart_Registration_003 -124 -Entering email: dixontheresa@example.org
+2026-10-27 09:48:58,758 - INFO -test_Credkart_Registration_003 -129 -Entering password
+2026-10-27 09:48:59,308 - INFO -test_Credkart_Registration_003 -134 -Entering confirm password
+2026-10-27 09:48:59,424 - INFO -test_Credkart_Registration_003 -139 -Click on register button
+2026-10-27 09:49:01,919 - INFO -test_Credkart_login_002 -45 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 09:49:01,919 - INFO -test_Credkart_login_002 -52 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 09:49:01,992 - INFO -test_Credkart_URL_001 -27 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 09:49:01,993 - INFO -test_Credkart_URL_001 -28 -Checking page title
+2026-10-27 09:49:02,334 - INFO -test_Credkart_URL_001 -30 -Page title is correct and landed on correct url -->CredKart
+2026-10-27 09:49:02,335 - INFO -test_Credkart_URL_001 -31 -Taking screenshot
+2026-10-27 09:49:02,647 - INFO -test_Credkart_login_002 -59 -Entering password: Password@123
+2026-10-27 09:49:02,926 - INFO -test_Credkart_login_002 -65 -Clicking on login button
+2026-10-27 09:49:03,625 - INFO -test_Credkart_URL_001 -33 -Testcase test_Credkart_URL_001 is pass
+2026-10-27 09:49:03,626 - INFO -test_Credkart_URL_001 -40 -Testcase test_Credkart_URL_001 is completed
+2026-10-27 09:49:07,658 - INFO -test_Credkart_login_002 -85 -Checking login status
+2026-10-27 09:49:08,111 - INFO -test_Credkart_login_002 -87 -login pass
+2026-10-27 09:49:08,112 - INFO -test_Credkart_login_002 -88 -Click on menu button
+2026-10-27 09:49:08,889 - INFO -test_Credkart_Registration_003 -156 -Checking registration status
+2026-10-27 09:49:09,142 - INFO -test_Credkart_Registration_003 -158 -registration pass
+2026-10-27 09:49:09,142 - INFO -test_Credkart_Registration_003 -159 -Click on menu button
+2026-10-27 09:49:09,442 - INFO -test_Credkart_login_002 -90 -Click on logout button
+2026-10-27 09:49:09,592 - INFO -test_Credkart_Registration_003 -161 -Click on logout button
+2026-10-27 09:49:09,874 - INFO -test_Credkart_Registration_003 -163 -Taking screenshot for registration pass
+2026-10-27 09:49:11,867 - INFO -test_Credkart_Registration_003 -165 -Testcase test_Credkart_Registration_003 is passed
+2026-10-27 09:49:11,868 - INFO -test_Credkart_Registration_003 -172 -Testcase test_Credkart_Registration_003 is completed
+2026-10-27 09:49:11,874 - INFO -test_Credkart_login_002 -92 -Taking screenshot for login pass
+2026-10-27 09:49:12,352 - INFO -test_Credkart_login_002 -94 -Testcase test_Credkart_login_002 is passed
+2026-10-27 09:49:12,352 - INFO -test_Credkart_login_002 -101 -Testcase test_Credkart_login_002 is completed
+2026-10-27 10:14:22,527 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 10:14:22,713 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 10:14:23,016 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 10:14:47,579 - INFO -test_Credkart_URL_001 -25 -Testcase test_Credkart_URL_001 is started
+2026-10-27 10:14:52,448 - INFO -test_Credkart_login_002 -43 -Testcase test_Credkart_login_002 is started
+2026-10-27 10:14:52,493 - INFO -test_Credkart_Registration_003 -104 -Testcase test_Credkart_Registration_003 is started
+2026-10-27 10:14:57,084 - INFO -test_Credkart_URL_001 -27 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 10:14:57,084 - INFO -test_Credkart_URL_001 -28 -Checking page title
+2026-10-27 10:14:57,417 - INFO -test_Credkart_URL_001 -30 -Page title is correct and landed on correct url -->CredKart
+2026-10-27 10:14:57,417 - INFO -test_Credkart_URL_001 -31 -Taking screenshot
+2026-10-27 10:14:57,752 - INFO -test_Credkart_URL_001 -33 -Testcase test_Credkart_URL_001 is pass
+2026-10-27 10:14:57,752 - INFO -test_Credkart_URL_001 -40 -Testcase test_Credkart_URL_001 is completed
+2026-10-27 10:14:58,126 - INFO -test_Credkart_login_002 -45 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 10:14:58,126 - INFO -test_Credkart_login_002 -52 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 10:14:58,400 - INFO -test_Credkart_login_002 -59 -Entering password: Password@123
+2026-10-27 10:14:59,799 - INFO -test_Credkart_login_002 -65 -Clicking on login button
+2026-10-27 10:15:00,719 - INFO -test_Credkart_Registration_003 -106 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-27 10:15:00,740 - INFO -test_Credkart_Registration_003 -118 -Entering name: Patrick Gonzales
+2026-10-27 10:15:01,314 - INFO -test_Credkart_Registration_003 -124 -Entering email: garynicholson@example.net
+2026-10-27 10:15:01,638 - INFO -test_Credkart_Registration_003 -129 -Entering password
+2026-10-27 10:15:02,344 - INFO -test_Credkart_Registration_003 -134 -Entering confirm password
+2026-10-27 10:15:02,576 - INFO -test_Credkart_Registration_003 -139 -Click on register button
+2026-10-27 10:15:04,788 - INFO -test_Credkart_login_002 -85 -Checking login status
+2026-10-27 10:15:05,092 - INFO -test_Credkart_login_002 -87 -login pass
+2026-10-27 10:15:05,093 - INFO -test_Credkart_login_002 -88 -Click on menu button
+2026-10-27 10:15:05,477 - INFO -test_Credkart_login_002 -90 -Click on logout button
+2026-10-27 10:15:05,479 - INFO -test_Credkart_Registration_003 -156 -Checking registration status
+2026-10-27 10:15:05,644 - INFO -test_Credkart_Registration_003 -158 -registration pass
+2026-10-27 10:15:05,645 - INFO -test_Credkart_Registration_003 -159 -Click on menu button
+2026-10-27 10:15:05,957 - INFO -test_Credkart_Registration_003 -161 -Click on logout button
+2026-10-27 10:15:07,028 - INFO -test_Credkart_login_002 -92 -Taking screenshot for login pass
+2026-10-27 10:15:07,279 - INFO -test_Credkart_login_002 -94 -Testcase test_Credkart_login_002 is passed
+2026-10-27 10:15:07,280 - INFO -test_Credkart_login_002 -101 -Testcase test_Credkart_login_002 is completed
+2026-10-27 10:15:08,224 - INFO -test_Credkart_Registration_003 -163 -Taking screenshot for registration pass
+2026-10-27 10:15:08,371 - INFO -test_Credkart_Registration_003 -165 -Testcase test_Credkart_Registration_003 is passed
+2026-10-27 10:15:08,372 - INFO -test_Credkart_Registration_003 -172 -Testcase test_Credkart_Registration_003 is completed
+2026-10-27 11:33:42,751 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:33:42,751 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:33:43,102 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:33:43,102 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:33:44,354 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:33:44,354 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:33:44,814 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:33:44,814 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 11:34:26,477 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:26,477 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:31,427 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:31,427 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:33,748 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:33,748 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:34,038 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:34,038 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:34,039 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 11:34:34,039 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 11:34:36,325 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@1232
+2026-10-27 11:34:36,325 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@1232
+2026-10-27 11:34:38,488 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:38,488 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:38,763 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:38,763 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:38,763 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 11:34:38,763 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 11:34:40,431 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@1232
+2026-10-27 11:34:40,431 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@1232
+2026-10-27 11:34:41,576 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:41,576 - INFO -test_Credkart_login_params_004 -20 -Testcase test_Credkart_login_002 is started
+2026-10-27 11:34:42,579 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:42,579 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:48,790 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:48,790 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:49,460 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:49,460 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:50,991 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:50,991 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:50,992 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 11:34:50,992 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 11:34:51,327 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:51,327 - INFO -test_Credkart_login_params_004 -22 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 11:34:51,327 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 11:34:51,327 - INFO -test_Credkart_login_params_004 -32 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 11:34:52,104 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@123
+2026-10-27 11:34:52,104 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@123
+2026-10-27 11:34:52,664 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@123
+2026-10-27 11:34:52,664 - INFO -test_Credkart_login_params_004 -37 -Entering password: Password@123
+2026-10-27 11:34:52,908 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:52,908 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:53,487 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:53,487 - INFO -test_Credkart_login_params_004 -41 -Clicking on login button
+2026-10-27 11:34:54,143 - INFO -test_Credkart_login_params_004 -58 -login fail
+2026-10-27 11:34:54,143 - INFO -test_Credkart_login_params_004 -58 -login fail
+2026-10-27 11:34:54,143 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login fail
+2026-10-27 11:34:54,143 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login fail
+2026-10-27 11:34:54,496 - INFO -test_Credkart_login_params_004 -58 -login fail
+2026-10-27 11:34:54,496 - INFO -test_Credkart_login_params_004 -58 -login fail
+2026-10-27 11:34:54,496 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login fail
+2026-10-27 11:34:54,496 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login fail
+2026-10-27 11:34:55,175 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:55,175 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:57,477 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 11:34:57,477 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 11:34:57,477 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 11:34:57,477 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 11:34:57,485 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 11:34:57,485 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 11:34:57,485 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 11:34:57,485 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 11:34:57,724 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:57,724 - INFO -test_Credkart_login_params_004 -46 -Checking login status
+2026-10-27 11:34:57,818 - INFO -test_Credkart_login_params_004 -48 -login pass
+2026-10-27 11:34:57,818 - INFO -test_Credkart_login_params_004 -48 -login pass
+2026-10-27 11:34:57,818 - INFO -test_Credkart_login_params_004 -49 -Click on menu button
+2026-10-27 11:34:57,818 - INFO -test_Credkart_login_params_004 -49 -Click on menu button
+2026-10-27 11:34:58,461 - INFO -test_Credkart_login_params_004 -51 -Click on logout button
+2026-10-27 11:34:58,461 - INFO -test_Credkart_login_params_004 -51 -Click on logout button
+2026-10-27 11:34:58,851 - INFO -test_Credkart_login_params_004 -53 -Taking screenshot for login pass
+2026-10-27 11:34:58,851 - INFO -test_Credkart_login_params_004 -53 -Taking screenshot for login pass
+2026-10-27 11:35:00,303 - INFO -test_Credkart_login_params_004 -58 -login fail
+2026-10-27 11:35:00,303 - INFO -test_Credkart_login_params_004 -58 -login fail
+2026-10-27 11:35:00,304 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login fail
+2026-10-27 11:35:00,304 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login fail
+2026-10-27 11:35:00,344 - INFO -test_Credkart_login_params_004 -55 -Testcase test_Credkart_login_params_004 is passed
+2026-10-27 11:35:00,344 - INFO -test_Credkart_login_params_004 -55 -Testcase test_Credkart_login_params_004 is passed
+2026-10-27 11:35:00,345 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 11:35:00,345 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 11:35:00,475 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 11:35:00,475 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 11:35:00,475 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 11:35:00,475 - INFO -test_Credkart_login_params_004 -66 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 13:18:26,333 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:18:26,333 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:18:34,775 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_excel_005 is started
+2026-10-27 13:18:34,775 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_excel_005 is started
+2026-10-27 13:18:36,554 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:18:36,554 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:21:32,711 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:21:32,711 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:21:44,142 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_URL_002 is started
+2026-10-27 13:21:44,142 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_URL_002 is started
+2026-10-27 13:22:03,768 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:22:03,768 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:23:55,254 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:23:55,254 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:24:09,856 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 13:24:09,856 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 13:24:11,701 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:24:11,701 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:28:16,835 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:28:16,835 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:28:23,908 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 13:28:23,908 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 13:28:26,913 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:28:26,913 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:35:36,565 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:35:36,565 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 13:35:47,074 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 13:35:47,074 - INFO -test_Credkart_login_excel_005 -23 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 13:35:52,355 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:35:52,355 - INFO -test_Credkart_login_excel_005 -25 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 13:46:24,923 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 13:46:24,923 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 13:52:13,903 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 16:11:30,803 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 16:11:30,805 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 16:11:30,867 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 16:11:30,867 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 16:11:31,141 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 16:11:31,141 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 16:11:31,265 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 16:11:31,265 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 16:11:31,268 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 16:11:31,268 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 16:11:35,858 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 16:11:35,858 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 16:12:06,385 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 16:12:06,385 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 16:12:09,448 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 16:12:09,448 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 16:12:09,448 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 16:12:09,448 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 16:12:09,864 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 16:12:09,864 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 16:12:09,864 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 16:12:09,864 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 16:12:10,105 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 16:12:10,105 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 16:12:12,418 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 16:12:12,418 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 16:12:13,598 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 16:12:13,598 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 16:12:13,598 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 16:12:13,598 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 16:12:13,922 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 16:12:13,922 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 16:12:13,923 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 16:12:13,923 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 16:12:14,178 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 16:12:14,178 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 16:12:14,530 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 16:12:14,530 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,319 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on t2026-10-27 17:02:16,319 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,319 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,327 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,327 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,327 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,327 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,363 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,363 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,392 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:02:16,392 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:02:19,005 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:02:19,005 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:02:33,656 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:02:33,656 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:03:02,599 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:03:02,599 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:03:02,600 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:03:02,600 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:03:02,621 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:03:02,621 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:03:02,622 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:03:02,622 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:03:03,317 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:03:03,317 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:03:05,107 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:03:05,107 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:03:06,275 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:03:06,275 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:03:06,275 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:03:06,275 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:03:06,305 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:03:06,305 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:03:06,305 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:03:06,305 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:03:06,537 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:03:06,537 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:03:06,698 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:03:06,698 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,110 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,110 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,110 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,116 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,116 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,116 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,116 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,109 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,133 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:03:57,133 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:03:58,769 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:03:58,769 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:04:08,509 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:04:08,509 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:04:10,778 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:04:10,778 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:04:10,778 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:04:10,778 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:04:11,589 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:04:11,589 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:04:11,589 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:04:11,589 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:04:11,923 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:04:11,923 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:04:13,916 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:04:13,916 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:04:15,203 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:04:15,203 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:04:15,204 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:04:15,204 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:04:15,276 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:04:15,276 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:04:15,276 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:04:15,276 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:04:15,674 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:04:15,674 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:04:15,915 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:04:15,915 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,443 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,443 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,447 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,447 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,452 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,452 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,589 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,589 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,601 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,601 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,603 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:09:01,603 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:09:03,191 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:09:03,191 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:09:18,710 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:09:18,710 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:09:40,715 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:09:40,715 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:09:40,716 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:09:40,716 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:09:40,768 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->credence.in | 522: Connection timed out
+2026-10-27 17:09:40,768 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->credence.in | 522: Connection timed out
+2026-10-27 17:09:40,768 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:09:40,768 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:09:41,061 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:09:41,061 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:09:43,290 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:09:43,290 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:10:03,749 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:10:03,749 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:10:03,750 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:10:03,750 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:10:03,833 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->credence.in | 522: Connection timed out
+2026-10-27 17:10:03,833 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->credence.in | 522: Connection timed out
+2026-10-27 17:10:03,833 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:10:03,833 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:10:04,104 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:10:04,104 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:10:05,701 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:10:05,701 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:25:58,558 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:25:58,558 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:26:06,359 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:26:06,359 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:26:12,362 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:12,362 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:12,363 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-27 17:26:12,363 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-27 17:26:12,408 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-27 17:26:12,408 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-27 17:26:12,408 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-27 17:26:12,408 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-27 17:26:13,189 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-27 17:26:13,189 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-27 17:26:13,189 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-27 17:26:13,189 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-27 17:26:13,246 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-27 17:26:13,246 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-27 17:26:14,539 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:14,539 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:14,540 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 17:26:14,540 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 17:26:15,378 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-27 17:26:15,378 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-27 17:26:15,969 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-27 17:26:15,969 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-27 17:26:19,416 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-27 17:26:19,416 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-27 17:26:19,667 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-27 17:26:19,667 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-27 17:26:19,668 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-27 17:26:19,668 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-27 17:26:19,814 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-27 17:26:19,814 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-27 17:26:21,193 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-27 17:26:21,193 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-27 17:26:21,517 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-27 17:26:21,517 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-27 17:26:21,518 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-27 17:26:21,518 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-27 17:26:21,540 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-27 17:26:21,540 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-27 17:26:21,892 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-27 17:26:21,892 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-27 17:26:21,923 - INFO -test_Credkart_Registration_003 -160 -Entering name: Christopher Knox
+2026-10-27 17:26:21,923 - INFO -test_Credkart_Registration_003 -160 -Entering name: Christopher Knox
+2026-10-27 17:26:22,208 - INFO -test_Credkart_Registration_003 -166 -Entering email: victor92@example.org
+2026-10-27 17:26:22,208 - INFO -test_Credkart_Registration_003 -166 -Entering email: victor92@example.org
+2026-10-27 17:26:22,543 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-27 17:26:22,543 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-27 17:26:22,769 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-27 17:26:22,769 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-27 17:26:23,045 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-27 17:26:23,045 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-27 17:26:24,283 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-27 17:26:24,283 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-27 17:26:24,463 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-27 17:26:24,463 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-27 17:26:24,463 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-27 17:26:24,463 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-27 17:26:24,709 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-27 17:26:24,709 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-27 17:26:24,830 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-27 17:26:24,830 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-27 17:26:26,525 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-27 17:26:26,525 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-27 17:26:26,526 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-27 17:26:26,526 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-27 17:26:34,677 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:26:34,677 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:26:46,627 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:26:46,627 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:26:48,536 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:48,536 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:48,536 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 17:26:48,536 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 17:26:49,438 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-27 17:26:49,438 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-27 17:26:49,938 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:26:49,938 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:26:51,542 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:26:51,542 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:26:51,737 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-27 17:26:51,737 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-27 17:26:51,737 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-27 17:26:51,737 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-27 17:26:52,056 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-27 17:26:52,056 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-27 17:26:54,096 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-27 17:26:54,096 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-27 17:26:54,447 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-27 17:26:54,447 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-27 17:26:54,447 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:26:54,447 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:26:54,651 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:26:54,651 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:26:54,958 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:54,958 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:26:54,958 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 17:26:54,958 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 17:26:55,175 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-27 17:26:55,175 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-27 17:26:55,454 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:26:55,454 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:26:56,509 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:26:56,509 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:27:01,766 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-27 17:27:01,766 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-27 17:27:01,766 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-27 17:27:01,766 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-27 17:27:01,985 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 17:27:01,985 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 17:27:01,986 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:27:01,986 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:27:02,258 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:27:02,258 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:27:02,837 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:27:02,837 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:27:02,837 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 17:27:02,837 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-27 17:27:03,368 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-27 17:27:03,368 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-27 17:27:03,642 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:27:03,642 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:27:03,984 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:27:03,984 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:27:09,521 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-27 17:27:09,521 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-27 17:27:09,521 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-27 17:27:09,521 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-27 17:27:09,706 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 17:27:09,706 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 17:27:09,707 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:27:09,707 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:27:10,217 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:27:10,217 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-27 17:27:10,986 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:27:10,986 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:27:10,986 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 17:27:10,986 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-27 17:27:11,928 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-27 17:27:11,928 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-27 17:27:13,029 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:27:13,029 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-27 17:27:14,617 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:27:14,617 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-27 17:27:19,872 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-27 17:27:19,872 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-27 17:27:19,872 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-27 17:27:19,872 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-27 17:27:20,012 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 17:27:20,012 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-27 17:27:20,013 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:27:20,013 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-27 17:27:20,122 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-27 17:27:20,122 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-27 17:35:25,942 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:35:25,942 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:35:35,105 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:35:35,105 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:35:39,790 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:35:39,790 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:35:39,790 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:35:39,790 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:35:40,129 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:35:40,129 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:35:40,130 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:35:40,130 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:35:40,496 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:35:40,496 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:35:42,436 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:35:42,436 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:35:42,921 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:35:42,921 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:35:42,921 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:35:42,921 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:35:42,968 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:35:42,968 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:35:42,968 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:35:42,968 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:35:43,316 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:35:43,316 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:35:44,001 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:35:44,001 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:35:44,062 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:35:44,062 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,753 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,753 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,818 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,818 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,833 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,833 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,858 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,858 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,889 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:35:51,889 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:39:29,696 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:39:40,173 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:39:40,173 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:39:40,190 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:39:40,190 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:39:40,686 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:39:42,526 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:39:43,355 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:39:43,356 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:39:43,365 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:39:43,366 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:39:43,652 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:41:30,971 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:41:36,608 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:41:36,608 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:41:36,628 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:41:36,628 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:41:37,207 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:41:39,352 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:41:48,229 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:41:48,229 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:41:48,278 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:41:48,279 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:41:48,455 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:43:32,818 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:43:40,098 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:43:40,098 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:43:40,113 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:43:40,114 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:43:40,437 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:43:42,277 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:43:43,339 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:43:43,340 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:43:43,408 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:43:43,408 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:43:43,598 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:45:54,140 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:46:40,617 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:46:40,617 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:46:51,535 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:46:51,535 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:46:53,751 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:46:53,751 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:46:53,751 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:46:53,751 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:46:54,005 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:46:54,005 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:46:54,006 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:46:54,006 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:46:54,481 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:46:54,481 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:46:56,468 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:46:56,468 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:46:57,055 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:46:57,055 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:46:57,056 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:46:57,056 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:46:57,235 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:46:57,235 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:46:57,235 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:46:57,235 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:46:57,520 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:46:57,520 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:46:58,150 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:46:58,150 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:46:58,284 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:46:58,284 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,003 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,003 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,147 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,147 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,210 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,210 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,231 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,231 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,246 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:47:05,246 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:52:37,550 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:52:37,550 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.48); currently, chromedriver 156.0.8078.47 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-27 17:52:53,761 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:52:53,761 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:52:55,948 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:52:55,948 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:52:55,948 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:52:55,948 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:52:56,200 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:52:56,200 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:52:56,201 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:52:56,201 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:52:56,527 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:52:56,527 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:52:58,702 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:52:58,702 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 17:52:59,336 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:52:59,336 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 17:52:59,336 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:52:59,336 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 17:52:59,601 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:52:59,601 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 17:52:59,602 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:52:59,602 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 17:52:59,888 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:52:59,888 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 17:53:00,352 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:53:00,352 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 17:53:00,391 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:53:00,391 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 17:53:05,968 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:05,968 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:05,986 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:05,986 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:06,006 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:06,006 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:06,030 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:06,030 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 17:53:06,041 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 17:53:06,041 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 18:03:57,237 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 18:04:02,566 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 18:04:02,567 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 18:04:02,577 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 18:04:02,578 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 18:04:03,213 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 18:04:05,067 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 18:10:37,491 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 18:10:39,770 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 18:10:39,770 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 18:10:39,781 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 18:10:39,781 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 18:10:40,185 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 18:10:42,085 - INFO -test_Credkart_URL_001 -28 -Testcase test_Credkart_URL_001 is started
+2026-10-27 18:10:43,066 - INFO -test_Credkart_URL_001 -30 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-27 18:10:43,066 - INFO -test_Credkart_URL_001 -31 -Checking page title
+2026-10-27 18:10:43,074 - INFO -test_Credkart_URL_001 -38 -Page title is incorrect and landed on url -->CredKart
+2026-10-27 18:10:43,074 - INFO -test_Credkart_URL_001 -39 -Taking screenshot
+2026-10-27 18:10:43,252 - INFO -test_Credkart_URL_001 -41 -Testcase test_Credkart_URL_001 is Fail
+2026-10-27 18:12:12,116 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 18:12:12,124 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,839 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,839 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,855 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,855 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,860 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,860 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,877 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,877 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,939 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,939 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,945 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,945 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,988 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 18:14:25,988 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,234 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,234 - INFO -checkDepend -100 -skip test_Credkart_login_002 because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,256 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,256 - INFO -checkDepend -100 -skip test_Credkart_Registration_003 because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,332 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,332 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,362 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,362 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data1] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,384 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,384 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data2] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,425 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,425 - INFO -checkDepend -100 -skip test_Credkart_login_params_004[credkart_login_data3] because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,448 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-27 18:15:01,448 - INFO -checkDepend -100 -skip test_Credkart_login_excel_005 because it depends on test_Credkart_URL_002
+2026-10-28 10:36:14,996 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:14,996 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:15,332 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:15,332 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:15,732 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:15,732 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:16,340 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:16,340 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:36:44,209 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:36:44,209 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:36:44,476 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:36:44,476 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:36:49,625 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 10:36:49,625 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 10:36:51,501 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:36:51,501 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:36:51,501 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 10:36:51,501 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 10:36:55,711 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 10:36:55,711 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 10:36:55,724 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-28 10:36:55,724 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-28 10:36:57,976 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:36:57,976 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:37:02,421 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:02,421 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:02,421 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-28 10:37:02,421 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-28 10:37:02,703 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-28 10:37:02,703 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-28 10:37:02,704 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-28 10:37:02,704 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-28 10:37:06,134 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 10:37:06,134 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 10:37:06,154 - INFO -test_Credkart_Registration_003 -160 -Entering name: Timothy Reynolds
+2026-10-28 10:37:06,154 - INFO -test_Credkart_Registration_003 -160 -Entering name: Timothy Reynolds
+2026-10-28 10:37:06,720 - INFO -test_Credkart_Registration_003 -166 -Entering email: jennifer21@example.net
+2026-10-28 10:37:06,720 - INFO -test_Credkart_Registration_003 -166 -Entering email: jennifer21@example.net
+2026-10-28 10:37:07,143 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 10:37:07,143 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 10:37:07,575 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 10:37:07,575 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 10:37:07,881 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:07,881 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:07,881 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 10:37:07,881 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 10:37:08,423 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 10:37:08,423 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 10:37:08,741 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 10:37:08,741 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 10:37:09,259 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:37:09,259 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:37:09,893 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:37:09,893 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:37:21,332 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-28 10:37:21,332 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-28 10:37:21,333 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-28 10:37:21,333 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-28 10:37:22,004 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-28 10:37:22,004 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-28 10:37:22,134 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:37:22,134 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:37:22,616 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:22,616 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:22,617 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 10:37:22,617 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 10:37:23,650 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-28 10:37:23,650 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-28 10:37:23,767 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 10:37:23,767 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 10:37:24,001 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-28 10:37:24,001 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-28 10:37:24,017 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-28 10:37:24,017 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-28 10:37:24,017 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-28 10:37:24,017 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-28 10:37:24,303 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-28 10:37:24,303 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-28 10:37:28,198 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 10:37:28,198 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 10:37:28,198 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 10:37:28,198 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 10:37:28,275 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 10:37:28,275 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 10:37:28,276 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 10:37:28,276 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 10:37:28,352 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-28 10:37:28,352 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-28 10:37:28,823 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-28 10:37:28,823 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-28 10:37:28,824 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-28 10:37:28,824 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-28 10:37:29,384 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-28 10:37:29,384 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-28 10:37:34,109 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 10:37:34,109 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 10:37:34,110 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 10:37:34,110 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 10:37:35,532 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-28 10:37:35,532 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-28 10:37:36,371 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 10:37:36,371 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 10:37:36,371 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 10:37:36,371 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 10:37:38,501 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-28 10:37:38,501 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-28 10:37:38,501 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-28 10:37:38,501 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-28 10:37:38,887 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-28 10:37:38,887 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-28 10:37:39,083 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:37:39,083 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:37:39,704 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:39,704 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:37:39,705 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 10:37:39,705 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 10:37:39,885 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-28 10:37:39,885 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-28 10:37:40,637 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-28 10:37:40,637 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-28 10:37:40,637 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-28 10:37:40,637 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-28 10:37:43,837 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 10:37:43,837 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 10:37:43,990 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:37:43,990 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:37:45,600 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:37:45,600 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:37:50,707 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 10:37:50,707 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 10:37:50,707 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 10:37:50,707 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 10:37:50,857 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 10:37:50,857 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 10:37:50,857 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 10:37:50,857 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 10:38:03,221 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:38:03,221 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 10:38:13,986 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:38:13,986 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 10:38:15,746 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:38:15,746 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 10:38:15,747 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 10:38:15,747 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 10:38:16,416 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 10:38:16,416 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 10:38:16,745 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:38:16,745 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 10:38:19,218 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:38:19,218 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 10:38:19,345 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-28 10:38:19,345 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-28 10:38:19,345 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-28 10:38:19,345 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-28 10:38:19,463 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-28 10:38:19,463 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-28 10:38:21,188 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-28 10:38:21,188 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-28 10:38:21,538 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-28 10:38:21,538 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-28 10:38:21,539 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 10:38:21,539 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 13:59:55,124 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 13:59:55,124 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 13:59:55,167 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 13:59:55,167 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:00:14,105 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 14:00:14,105 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 14:00:20,352 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 14:00:20,352 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 14:00:20,371 - INFO -test_Credkart_Registration_003 -160 -Entering name: Wesley Williams
+2026-10-28 14:00:20,371 - INFO -test_Credkart_Registration_003 -160 -Entering name: Wesley Williams
+2026-10-28 14:00:20,639 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-28 14:00:20,639 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-28 14:00:21,369 - INFO -test_Credkart_Registration_003 -166 -Entering email: qharper@example.org
+2026-10-28 14:00:21,369 - INFO -test_Credkart_Registration_003 -166 -Entering email: qharper@example.org
+2026-10-28 14:00:22,254 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 14:00:22,254 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 14:00:22,430 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:00:22,430 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:00:22,431 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-28 14:00:22,431 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-28 14:00:23,104 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-28 14:00:23,104 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-28 14:00:23,105 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-28 14:00:23,105 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-28 14:00:23,509 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 14:00:23,509 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 14:00:23,770 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-28 14:00:23,770 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-28 14:00:23,771 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-28 14:00:23,771 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-28 14:00:24,051 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-28 14:00:24,051 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-28 14:00:24,322 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 14:00:24,322 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 14:00:24,839 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:00:24,839 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:00:24,840 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:00:24,840 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:00:25,435 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-28 14:00:25,435 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-28 14:00:25,642 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-28 14:00:25,642 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-28 14:00:26,869 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 14:00:26,869 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 14:00:27,074 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-28 14:00:27,074 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-28 14:00:27,074 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-28 14:00:27,074 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-28 14:00:27,229 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-28 14:00:27,229 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-28 14:00:28,597 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-28 14:00:28,597 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-28 14:00:28,649 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-28 14:00:28,649 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-28 14:00:28,649 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-28 14:00:28,649 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-28 14:00:28,938 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-28 14:00:28,938 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-28 14:00:29,074 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-28 14:00:29,074 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-28 14:00:29,954 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-28 14:00:29,954 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-28 14:00:29,954 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-28 14:00:29,954 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-28 14:00:31,968 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-28 14:00:31,968 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-28 14:00:32,345 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-28 14:00:32,345 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-28 14:00:32,346 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-28 14:00:32,346 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-28 14:00:42,193 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:00:42,193 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:00:43,857 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:00:43,857 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:01:05,497 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:05,497 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:08,868 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:08,868 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:13,249 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:13,249 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:13,249 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:01:13,249 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:01:13,532 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:01:13,532 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:01:14,220 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:14,220 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:14,951 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:14,951 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:14,951 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:01:14,951 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:01:15,223 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:01:15,223 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:01:15,791 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:15,791 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:16,428 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:16,428 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:18,166 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:18,166 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:18,301 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-28 14:01:18,301 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-28 14:01:18,302 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-28 14:01:18,302 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-28 14:01:18,738 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-28 14:01:18,738 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-28 14:01:20,381 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-28 14:01:20,381 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-28 14:01:20,708 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-28 14:01:20,708 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-28 14:01:20,709 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:20,709 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:20,807 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:20,807 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:21,341 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:21,341 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:21,341 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:01:21,341 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:01:21,551 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:01:21,551 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:01:21,551 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:01:21,551 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:01:21,888 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:01:21,888 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:01:21,889 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:21,889 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:22,134 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:01:22,134 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:01:22,177 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:22,177 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:01:22,650 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:22,650 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:22,903 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:22,903 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:22,903 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:01:22,903 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:01:23,454 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:01:23,454 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:01:23,798 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:23,798 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:01:24,276 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:24,276 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:25,328 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:25,328 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:01:29,571 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:01:29,571 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:01:29,572 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:01:29,572 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:01:29,848 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:01:29,848 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:01:29,849 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:29,849 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:30,734 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:01:30,734 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:01:30,735 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:01:30,735 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:01:31,149 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-28 14:01:31,149 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-28 14:01:32,205 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:01:32,205 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:01:32,206 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:32,206 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:01:32,978 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:32,978 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:01:33,030 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:01:33,030 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:01:35,651 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@123
+2026-10-28 14:01:35,651 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@123
+2026-10-28 14:01:36,183 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:01:36,183 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:01:36,966 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:01:36,966 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:01:39,879 - INFO -test_Credkart_login_excel_005 -116 -login pass
+2026-10-28 14:01:39,879 - INFO -test_Credkart_login_excel_005 -116 -login pass
+2026-10-28 14:01:39,879 - INFO -test_Credkart_login_excel_005 -117 -Click on menu button
+2026-10-28 14:01:39,879 - INFO -test_Credkart_login_excel_005 -117 -Click on menu button
+2026-10-28 14:01:40,265 - INFO -test_Credkart_login_excel_005 -119 -Click on logout button
+2026-10-28 14:01:40,265 - INFO -test_Credkart_login_excel_005 -119 -Click on logout button
+2026-10-28 14:01:43,227 - INFO -test_Credkart_login_excel_005 -121 -Taking screenshot for login pass
+2026-10-28 14:01:43,227 - INFO -test_Credkart_login_excel_005 -121 -Taking screenshot for login pass
+2026-10-28 14:01:43,791 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:01:43,791 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:04:19,290 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:04:19,290 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:04:19,638 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:04:19,638 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:04:34,078 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 14:04:34,078 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 14:04:39,823 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-28 14:04:39,823 - INFO -test_Credkart_URL_001 -36 -Testcase test_Credkart_URL_001 is started
+2026-10-28 14:04:41,216 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:04:41,216 - INFO -test_Credkart_URL_001 -38 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:04:42,644 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-28 14:04:42,644 - INFO -test_Credkart_URL_001 -39 -Checking page title
+2026-10-28 14:04:42,700 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-28 14:04:42,700 - INFO -test_Credkart_URL_001 -42 -Page title is correct and landed on correct url -->CredKart
+2026-10-28 14:04:42,701 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-28 14:04:42,701 - INFO -test_Credkart_URL_001 -43 -Taking screenshot
+2026-10-28 14:04:42,899 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-28 14:04:42,899 - INFO -test_Credkart_URL_001 -46 -Testcase test_Credkart_URL_001 is pass
+2026-10-28 14:04:42,900 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-28 14:04:42,900 - INFO -test_Credkart_URL_001 -56 -Testcase test_Credkart_URL_001 is completed
+2026-10-28 14:04:43,018 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-28 14:04:43,018 - INFO -test_Credkart_login_002 -71 -Testcase test_Credkart_login_002 is started
+2026-10-28 14:04:43,153 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 14:04:43,153 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 14:04:43,168 - INFO -test_Credkart_Registration_003 -160 -Entering name: Sean Proctor
+2026-10-28 14:04:43,168 - INFO -test_Credkart_Registration_003 -160 -Entering name: Sean Proctor
+2026-10-28 14:04:43,420 - INFO -test_Credkart_Registration_003 -166 -Entering email: tbrown@example.net
+2026-10-28 14:04:43,420 - INFO -test_Credkart_Registration_003 -166 -Entering email: tbrown@example.net
+2026-10-28 14:04:43,583 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:04:43,583 - INFO -test_Credkart_login_002 -73 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:04:43,583 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:04:43,583 - INFO -test_Credkart_login_002 -80 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:04:44,124 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 14:04:44,124 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 14:04:44,423 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 14:04:44,423 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 14:04:44,473 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-28 14:04:44,473 - INFO -test_Credkart_login_002 -87 -Entering password: Password@123
+2026-10-28 14:04:44,676 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 14:04:44,676 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 14:04:44,910 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-28 14:04:44,910 - INFO -test_Credkart_login_002 -93 -Clicking on login button
+2026-10-28 14:04:47,602 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-28 14:04:47,602 - INFO -test_Credkart_login_002 -113 -Checking login status
+2026-10-28 14:04:47,690 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-28 14:04:47,690 - INFO -test_Credkart_login_002 -115 -login pass
+2026-10-28 14:04:47,690 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-28 14:04:47,690 - INFO -test_Credkart_login_002 -116 -Click on menu button
+2026-10-28 14:04:47,913 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 14:04:47,913 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 14:04:48,221 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-28 14:04:48,221 - INFO -test_Credkart_login_002 -118 -Click on logout button
+2026-10-28 14:04:50,122 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-28 14:04:50,122 - INFO -test_Credkart_login_002 -120 -Taking screenshot for login pass
+2026-10-28 14:04:50,497 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-28 14:04:50,497 - INFO -test_Credkart_login_002 -125 -Testcase test_Credkart_login_002 is passed
+2026-10-28 14:04:50,497 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-28 14:04:50,497 - INFO -test_Credkart_login_002 -132 -Testcase test_Credkart_login_002 is completed
+2026-10-28 14:04:53,003 - INFO -test_Credkart_Registration_003 -212 -registration fail
+2026-10-28 14:04:53,003 - INFO -test_Credkart_Registration_003 -212 -registration fail
+2026-10-28 14:04:53,003 - INFO -test_Credkart_Registration_003 -213 -Taking screenshot for registration fail
+2026-10-28 14:04:53,003 - INFO -test_Credkart_Registration_003 -213 -Taking screenshot for registration fail
+2026-10-28 14:04:53,191 - INFO -test_Credkart_Registration_003 -215 -Testcase test_Credkart_Registration_003 is failed
+2026-10-28 14:04:53,191 - INFO -test_Credkart_Registration_003 -215 -Testcase test_Credkart_Registration_003 is failed
+2026-10-28 14:04:56,320 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 14:04:56,320 - INFO -test_Credkart_Registration_003 -146 -Testcase test_Credkart_Registration_003 is started
+2026-10-28 14:04:56,985 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 14:04:56,985 - INFO -test_Credkart_Registration_003 -148 -Opening Browser and landing on https://automation.credence.in/register
+2026-10-28 14:04:56,992 - INFO -test_Credkart_Registration_003 -160 -Entering name: Marie Holland
+2026-10-28 14:04:56,992 - INFO -test_Credkart_Registration_003 -160 -Entering name: Marie Holland
+2026-10-28 14:04:57,768 - INFO -test_Credkart_Registration_003 -166 -Entering email: traviscampbell@example.org
+2026-10-28 14:04:57,768 - INFO -test_Credkart_Registration_003 -166 -Entering email: traviscampbell@example.org
+2026-10-28 14:04:58,006 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 14:04:58,006 - INFO -test_Credkart_Registration_003 -171 -Entering password
+2026-10-28 14:04:58,233 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 14:04:58,233 - INFO -test_Credkart_Registration_003 -176 -Entering confirm password
+2026-10-28 14:04:58,563 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 14:04:58,563 - INFO -test_Credkart_Registration_003 -181 -Click on register button
+2026-10-28 14:05:01,254 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 14:05:01,254 - INFO -test_Credkart_Registration_003 -198 -Checking registration status
+2026-10-28 14:05:01,319 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-28 14:05:01,319 - INFO -test_Credkart_Registration_003 -200 -registration pass
+2026-10-28 14:05:01,319 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-28 14:05:01,319 - INFO -test_Credkart_Registration_003 -201 -Click on menu button
+2026-10-28 14:05:01,871 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-28 14:05:01,871 - INFO -test_Credkart_Registration_003 -203 -Click on logout button
+2026-10-28 14:05:02,154 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-28 14:05:02,154 - INFO -test_Credkart_Registration_003 -205 -Taking screenshot for registration pass
+2026-10-28 14:05:03,533 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-28 14:05:03,533 - INFO -test_Credkart_Registration_003 -210 -Testcase test_Credkart_Registration_003 is passed
+2026-10-28 14:05:03,533 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-28 14:05:03,533 - INFO -test_Credkart_Registration_003 -217 -Testcase test_Credkart_Registration_003 is completed
+2026-10-28 14:05:13,729 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:05:13,729 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:05:13,877 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:05:13,877 - WARNING -_process_logs -168 -The chromedriver version (155.0.8059.39) detected in PATH at C:\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (156.0.8078.73); currently, chromedriver 156.0.8078.73 is recommended for chrome 156.*, so it is advised to delete the driver in PATH and retry
+2026-10-28 14:05:30,291 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:05:30,291 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:05:34,503 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:05:34,503 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:05:37,333 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:05:37,333 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:05:37,333 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:05:37,333 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:05:38,908 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:05:38,908 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:05:39,534 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:05:39,534 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:05:47,907 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:05:47,907 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:05:47,907 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:05:47,907 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:05:48,766 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:05:48,766 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@123
+2026-10-28 14:05:49,263 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:05:49,263 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:05:55,100 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:05:55,100 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:05:56,295 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:05:56,295 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:05:56,489 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-28 14:05:56,489 - INFO -test_Credkart_login_params_004 -54 -login pass
+2026-10-28 14:05:56,489 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-28 14:05:56,489 - INFO -test_Credkart_login_params_004 -55 -Click on menu button
+2026-10-28 14:05:56,811 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-28 14:05:56,811 - INFO -test_Credkart_login_params_004 -57 -Click on logout button
+2026-10-28 14:05:58,343 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-28 14:05:58,343 - INFO -test_Credkart_login_params_004 -59 -Taking screenshot for login pass
+2026-10-28 14:05:58,773 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-28 14:05:58,773 - INFO -test_Credkart_login_params_004 -61 -Testcase test_Credkart_login_params_004 is passed
+2026-10-28 14:05:58,773 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:05:58,773 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:05:59,815 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:05:59,815 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:06:00,363 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:06:00,363 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:06:00,363 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:06:00,363 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:06:00,441 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:00,441 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:00,442 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:06:00,442 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:06:00,650 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:06:00,650 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:06:00,650 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:06:00,650 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:06:00,700 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:06:00,700 - INFO -test_Credkart_login_params_004 -29 -Testcase test_Credkart_login_params_004 is started
+2026-10-28 14:06:00,913 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:06:00,913 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:06:01,143 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:01,143 - INFO -test_Credkart_login_params_004 -31 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:01,143 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:06:01,143 - INFO -test_Credkart_login_params_004 -40 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:06:01,294 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:06:01,294 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:06:01,418 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:06:01,418 - INFO -test_Credkart_login_params_004 -45 -Entering password: Password@1232
+2026-10-28 14:06:01,612 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:06:01,612 - INFO -test_Credkart_login_params_004 -49 -Clicking on login button
+2026-10-28 14:06:02,894 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:06:02,894 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:06:03,077 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:06:03,077 - INFO -test_Credkart_login_params_004 -52 -Checking login status
+2026-10-28 14:06:08,034 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:06:08,034 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:06:08,035 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:06:08,035 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:06:08,286 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:06:08,286 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:06:08,286 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:06:08,286 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:06:08,331 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:06:08,331 - INFO -test_Credkart_login_params_004 -64 -login fail
+2026-10-28 14:06:08,332 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:06:08,332 - INFO -test_Credkart_login_params_004 -65 -Taking screenshot for login fail
+2026-10-28 14:06:08,389 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-28 14:06:08,389 - INFO -test_Credkart_login_excel_005 -85 -Testcase test_Credkart_login_excel_005 is started
+2026-10-28 14:06:08,641 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:06:08,641 - INFO -test_Credkart_login_params_004 -67 -Testcase test_Credkart_login_params_004 is failed
+2026-10-28 14:06:08,641 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:06:08,641 - INFO -test_Credkart_login_params_004 -71 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:06:08,943 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:08,943 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:09,016 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:06:09,016 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:06:09,548 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@123
+2026-10-28 14:06:09,548 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@123
+2026-10-28 14:06:09,787 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:09,787 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:11,956 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:11,956 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:12,238 - INFO -test_Credkart_login_excel_005 -116 -login pass
+2026-10-28 14:06:12,238 - INFO -test_Credkart_login_excel_005 -116 -login pass
+2026-10-28 14:06:12,238 - INFO -test_Credkart_login_excel_005 -117 -Click on menu button
+2026-10-28 14:06:12,238 - INFO -test_Credkart_login_excel_005 -117 -Click on menu button
+2026-10-28 14:06:12,513 - INFO -test_Credkart_login_excel_005 -119 -Click on logout button
+2026-10-28 14:06:12,513 - INFO -test_Credkart_login_excel_005 -119 -Click on logout button
+2026-10-28 14:06:12,744 - INFO -test_Credkart_login_excel_005 -121 -Taking screenshot for login pass
+2026-10-28 14:06:12,744 - INFO -test_Credkart_login_excel_005 -121 -Taking screenshot for login pass
+2026-10-28 14:06:14,057 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:14,057 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:15,080 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:15,080 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:15,138 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:06:15,138 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_50051@credence.in
+2026-10-28 14:06:15,740 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@123
+2026-10-28 14:06:15,740 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@123
+2026-10-28 14:06:16,123 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:16,123 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:17,691 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:17,691 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:22,998 - INFO -test_Credkart_login_excel_005 -125 -login fail
+2026-10-28 14:06:22,998 - INFO -test_Credkart_login_excel_005 -125 -login fail
+2026-10-28 14:06:22,999 - INFO -test_Credkart_login_excel_005 -126 -Taking screenshot for login fail
+2026-10-28 14:06:22,999 - INFO -test_Credkart_login_excel_005 -126 -Taking screenshot for login fail
+2026-10-28 14:06:23,470 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:23,470 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:24,593 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:24,593 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:24,655 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:06:24,655 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in
+2026-10-28 14:06:25,755 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@1231
+2026-10-28 14:06:25,755 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@1231
+2026-10-28 14:06:27,079 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:27,079 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:28,613 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:28,613 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:33,709 - INFO -test_Credkart_login_excel_005 -125 -login fail
+2026-10-28 14:06:33,709 - INFO -test_Credkart_login_excel_005 -125 -login fail
+2026-10-28 14:06:33,710 - INFO -test_Credkart_login_excel_005 -126 -Taking screenshot for login fail
+2026-10-28 14:06:33,710 - INFO -test_Credkart_login_excel_005 -126 -Taking screenshot for login fail
+2026-10-28 14:06:35,570 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:35,570 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:36,910 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:36,910 - INFO -test_Credkart_login_excel_005 -93 -Opening Browser and landing on https://automation.credence.in/login
+2026-10-28 14:06:36,965 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in1
+2026-10-28 14:06:36,965 - INFO -test_Credkart_login_excel_005 -102 -Entering email: CredenceTest_5005@credence.in1
+2026-10-28 14:06:37,469 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@1231
+2026-10-28 14:06:37,469 - INFO -test_Credkart_login_excel_005 -107 -Entering password: Password@1231
+2026-10-28 14:06:37,773 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:37,773 - INFO -test_Credkart_login_excel_005 -111 -Clicking on login button
+2026-10-28 14:06:39,177 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:39,177 - INFO -test_Credkart_login_excel_005 -114 -Checking login status
+2026-10-28 14:06:44,460 - INFO -test_Credkart_login_excel_005 -125 -login fail
+2026-10-28 14:06:44,460 - INFO -test_Credkart_login_excel_005 -125 -login fail
+2026-10-28 14:06:44,461 - INFO -test_Credkart_login_excel_005 -126 -Taking screenshot for login fail
+2026-10-28 14:06:44,461 - INFO -test_Credkart_login_excel_005 -126 -Taking screenshot for login fail
+2026-10-28 14:06:44,822 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:44,822 - INFO -test_Credkart_login_excel_005 -130 -Writing data into excel file
+2026-10-28 14:06:45,156 - INFO -test_Credkart_login_excel_005 -141 -All Testcases are passed
+2026-10-28 14:06:45,156 - INFO -test_Credkart_login_excel_005 -141 -All Testcases are passed
+2026-10-28 14:06:45,156 - INFO -test_Credkart_login_excel_005 -142 -Testcase test_Credkart_login_excel_005 is passed
+2026-10-28 14:06:45,156 - INFO -test_Credkart_login_excel_005 -142 -Testcase test_Credkart_login_excel_005 is passed
+2026-10-28 14:06:45,157 - INFO -test_Credkart_login_excel_005 -150 -Testcase test_Credkart_login_params_004 is completed
+2026-10-28 14:06:45,157 - INFO -test_Credkart_login_excel_005 -150 -Testcase test_Credkart_login_params_004 is completed
