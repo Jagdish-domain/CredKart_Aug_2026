@@ -129,6 +129,7 @@ class Test_User_Login_002:
 
             self.log.info(f"Writing data into excel file")
             Excel_Utils.write_data(excel_path, sheet_name, i, 5, actual_result)
+            print(f"Written value at row {i}, col 5: {actual_result}")
 
             if self.expected_result == actual_result:
                 test_case_stauts = 'Pass'
